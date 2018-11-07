@@ -1,5 +1,5 @@
-# Falcon
-Falcon is a simple key value data store mock up using the [Falcon](https://falconframework.org/) micro framework. 
+# falcon
+falcon is a simple key value data store mock up using the [Falcon](https://falconframework.org/) micro framework. 
 
 ### Start Virtual Environment
 Assuming you have python 3:
@@ -10,7 +10,7 @@ cd falcon
 python3 -m venv venv
 . venv/bin/activate
 ```
-Windows Instructions
+Windows instructions
 ```$xslt
 cd falcon
 py -3 -m venv venv
